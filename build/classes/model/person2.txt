@@ -1,0 +1,3 @@
+Nghia; Ha Noi; 1000
+Thanh; Ha Noi; 1200
+Phuong; Ha Noi; 1300
